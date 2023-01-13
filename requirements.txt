@@ -21,5 +21,6 @@ ipywidgets==7.5.1
 opencv-python==4.4.0.44
 matplotlib==3.3.2
 numpy==1.18.5
-tqdm
-flask
+tqdm==4.64.1
+flask==2.2.2
+flask_wtf==1.0.1
